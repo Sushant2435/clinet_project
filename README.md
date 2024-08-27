@@ -1,3 +1,9 @@
+Project Instruction and Figma Design
+https://brazen-situation-752.notion.site/Assignment-bab33aeefcea4e3facaeaf2a5cce4599
+
+deploy link
+https://figma-react245.netlify.app/
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
