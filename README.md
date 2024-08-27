@@ -4,6 +4,10 @@ https://brazen-situation-752.notion.site/Assignment-bab33aeefcea4e3facaeaf2a5cce
 deploy link
 https://figma-react245.netlify.app/
 
+Login details:
+email: sharmasushant245@gmail.com
+password : 1234
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
